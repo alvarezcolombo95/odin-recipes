@@ -1,0 +1,37 @@
+.title {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    text-align: center;
+}
+
+.main.title {
+    color: rgb(37, 114, 37);
+    background-color: rgb(202, 236, 151);
+}
+
+.recipe-name {
+    color: rgb(243, 213, 158);
+    background-color: rgb(150, 33, 18);
+}
+
+.list-item {
+    color: green;
+}
+
+.list-link {
+    color: rgb(85, 54, 14);
+}
+
+.image {
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+
+
